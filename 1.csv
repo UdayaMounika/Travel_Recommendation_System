@@ -1,0 +1,287 @@
+,location,place,state,location_rating,age,season,types_of_travel,religion,item_id,user_id,user_rating,timestamp,travel_type_any,travel_type_family,travel_type_friends,travel_type_solo,religion_any,religion_buddist,religion_christian,religion_hindus,religion_jain,religion_muslim,religion_sikhs,season_any,season_autumn,season_rainy,season_spring,season_summer,season_winter
+0,Bhoramdeo Temple,"Chaura village, Kawardha town", chhattisgarh,4.0,0,winter,family,hindus,1,1,0.0,881250949,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+1,  maitri bagh,"Near to Maroda, Bhilai",chhattisgarh,4.0,20,any,friends,any,2,1,3.0,891717742,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2,Tirathgarh Falls,Bastar district,chhattisgarh,4.6,25,rainy,friends,any,3,1,1.0,878887116,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+3,Sirpur Heritage Site,bank of holy Mahanadi river,chhattisgarh,5.0,0,winter,family,hindus,4,1,0.0,880606923,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+4,Rajeev Smriti Van,Raipur,chhattisgarh,3.9,0,any,solo,any,5,1,1.0,886397596,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+5,Palolem Beach,Canacona,Goa,5.0,22,spring,friends,any,6,1,0.0,884182806,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+6,Calangute beach,North Goaalangute beach,Goa,4.4,0,rainy,friends,any,7,1,0.0,881171488,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+7,Fort Aguada,Candolim,Goa,4.2,0,rainy,any,any,8,1,5.0,891628467,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+8,Chapora Fort,Vagato,Goa,4.3,35,rainy,family,any,9,1,3.0,886324817,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+9,Basilica de Bom Jesus,Bainguinim,Goa,4.5,0,summer,family,christian,10,1,0.0,883603013,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+10,dudhsagar-falls,�Mandovi River�,Goa,4.6,18,winter,friends,any,11,1,2.0,879372434,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+11,Reis Magos Fort Arpora Night Market,Arpora,Goa,4.2,0,any,family,any,12,1,0.0,879781125,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+12,Deltin Royale Casino,Panaji,Goa,4.3,20,autumn,friends,any,13,1,5.0,876042340,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+13,Naval Aviation Museum,Vasco da Gama,Goa,4.5,24,spring,friends,any,14,1,3.0,891035994,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+15,Champaner-Pavagadh Archaeological Park,�Panchmahal,Gujarat,4.4,0,any,any,any,16,1,3.0,879485318,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+16,Konark Sun Temple,Konark,Gujarat,4.6,0,spring,family,hindus,17,1,0.0,879270459,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+17,Polo Forest,Gujarat,Gujarat,4.3,15,rainy,friends,any,18,1,2.0,879539794,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+18,Dwarka,Gujarat,Gujarat,4.2,0,winter,family,hindus,19,1,0.0,874834944,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+19,Somnath,Veraval,Gujarat,4.8,35,winter,family,hindus,20,1,2.0,892079237,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+20,Gir National Park,Gujarat,Gujarat,4.2,11,winter,friends,any,21,1,4.0,886176814,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+21,Rann Of Kutch,Kutch,Gujarat,4.5,22,winter,friends,any,22,1,4.0,892738452,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+22,Makarpura Palace,Vadodara,Gujarat,4.0,0,summer,family,any,23,1,0.0,877881320,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+23,EME Temple,Gujarat,Gujarat,4.7,30,rainy,family,hindus,24,1,2.0,874833878,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+24,Brahma Sarovar,kurukshetra,Harayana,4.7,0,autumn,family,hindus,25,1,4.0,887736532,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+25,Kabuli Bagh Mosque,Panipat,Harayana,4.0,0,any,any,muslim,26,1,0.0,879196566,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+26,Holy Redeemer Church,Ambala,Harayana,4.6,0,any,any,christian,27,1,5.0,892430094,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+27,Sultanpur Bird Sanctuary,Harayana,Harayana,4.1,0,winter,friends,any,28,1,0.0,883748450,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+28,Leisure Valley Park,Gurgaon,Harayana,4.7,10,any,any,any,29,1,4.0,875747401,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+29,Kingdom of Dreams,Harayana,Harayana,4.5,0,any,any,any,30,1,0.0,876861185,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+30,Jatmai Temple,Raipur,chhattisgarh,4.5,0,rainy,family,hindus,31,1,3.0,877052329,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+31,Nandan Van Zoo,�Atari,chhattisgarh,3.9,25,any,friends,any,32,1,0.0,882075827,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+32,Ghatarani Waterfalls,Raipur,chhattisgarh,4.3,22,summer,friends,any,33,2,0.0,879539727,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+33,MM Fun City,�Arang,chhattisgarh,4.1,25,any,friends,any,34,2,4.0,880731963,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+34,Solang Valley,Manali,Himachal pradesh,4.0,40,any,any,any,35,2,0.0,884238860,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+35,jakhu temple,shimla,Himachal pradesh,4.5,0,any,any,hindus,36,2,4.0,886890835,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+36,Beas River,central Himachal pradesh,Himachal pradesh,4.5,20,any,any,any,37,2,1.0,878962623,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+37,Manikaran Gurudwara,Kullu ,Himachal pradesh,4.5,0,any,any,any,38,2,0.0,891295330,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+38,Jogini Waterfall,Manali,Himachal pradesh,4.5,0,any,any,any,39,2,1.0,874791932,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+39,Spiti valley,Lahaul,Himachal pradesh,5.0,0,any,any,any,40,2,4.0,891350932,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+40,Hidimba Devi Temple,Manali,Himachal pradesh,4.5,0,any,any,hindus,41,2,0.0,877888877,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+41,Triund Hill,Kangra,Himachal pradesh,4.5,20,any,any,any,42,2,4.0,885329322,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+42,Tirthan Valley,Kullu ,Himachal pradesh,5.0,20,any,any,any,43,2,2.0,884114233,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+43,Prashar lake,Mandi,Himachal pradesh,4.5,0,any,any,any,44,2,3.0,874791805,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+44,Bhagus Waterfall,Dharamshala,Himachal pradesh,5.0,20,summer,any,any,45,2,5.0,875333916,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+45,Masroor Rock Cut temple,Lahalpur,Himachal pradesh,4.5,0,any,any,hindus,46,2,0.0,884921594,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+46,Barot valley,Mandi,Himachal pradesh,4.5,20,any,any,any,47,2,5.0,879741196,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+47,parvathi valley,Kullu ,Himachal pradesh,4.5,20,any,any,any,48,2,0.0,879641194,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+48,Dal Lake,Srinagar,Jammu & Kashmir,4.5,0,any,any,any,49,2,5.0,886519097,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+49,Vaishnavo Devi Mandir,Trikuta hills,Jammu & Kashmir,4.5,0,any,any,hindus,50,2,0.0,882823437,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+50,Gulmarg,Gulmarg,Jammu & Kashmir,4.5,20,any,any,any,51,2,4.0,886271884,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+51,Pahalgam,Anantnag,Jammu & Kashmir,4.5,20,any,any,any,52,2,2.0,876535131,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+52,Amarnath,Anantnag,Jammu & Kashmir,4.5,20,any,any,hindus,53,2,0.0,890618898,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+53,Nubra Valley,Ladakh,Jammu & Kashmir,5.0,0,rainy,any,any,54,2,5.0,885853415,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+54,Sonamarg,Ganderbal,Jammu & Kashmir,4.5,0,any,any,any,55,2,5.0,888205088,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+55,Jammu,Jammu,Jammu & Kashmir,4.0,20,any,any,any,56,2,0.0,880037164,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+56,Lamayur,Leh,Jammu & Kashmir,4.5,20,summer,any,any,57,2,0.0,879877127,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+57,Deoghar temple,Deoghar,Jharkhand,4.5,0,any,any,hindus,58,2,5.0,880474293,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+58,Jamshedpur,Jamshedpur,Jharkhand,4.0,0,any,any,any,59,2,5.0,881107687,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+59,Ghatshila,singhbhum,Jharkhand,4.2,0,any,any,any,60,2,0.0,881103977,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+60,dasham falls,Ranchi,Jharkhand,3.5,0,any,any,any,61,2,3.0,881171009,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+61,Netarhat,Latehar,Jharkhand,4.0,0,any,any,any,62,2,0.0,879667584,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+62,hazaribagh,chhota nagpur,Jharkhand,4.5,0,any,any,any,63,2,4.0,884112673,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+64,Banglore,Banglore,Karnataka,4.0,0,any,any,any,65,3,4.0,884920949,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+65,mysore,mysore,Karnataka,4.5,0,any,any,any,66,3,5.0,879024232,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+66,Chikmagalur,Mullayagiri,Karnataka,4.5,0,any,any,any,67,3,0.0,892738341,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+67,hampi,Vijayanagara,Karnataka,4.5,0,any,any,hindus,68,3,5.0,883326620,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+68,udupi,udipi,Karnataka,4.5,0,any,any,any,69,3,0.0,883698581,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+69,Murudeshwar,uttar kannada,Karnataka,4.5,0,any,any,hindus,70,3,4.0,891550094,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+70,gokarna,uttar kannada,Karnataka,4.5,0,any,any,hindus,71,3,0.0,893277702,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+71,Dandiel,uttar kannada,Karnataka,4.0,20,any,any,any,72,3,3.0,879987440,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+72,jog falls,Shivamogga,Karnataka,4.5,20,any,any,any,73,3,1.0,890251826,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+73,shravanabelagola,Hassan,Karnataka,4.5,0,any,any,jain,74,3,3.0,884923047,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+74,pattadakal,Bagalkot,Karnataka,4.5,0,any,any,any,75,3,0.0,879546723,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+75,nandi hills,Banglore,Karnataka,4.0,0,any,any,any,76,3,2.0,887249482,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+76,bijapur,bijapur,Karnataka,4.5,0,any,any,any,77,3,0.0,882823954,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+77,Kemmanagundi,chikamagaluru,Karnataka,4.5,0,any,any,any,78,3,3.0,886475558,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+78,manglore,dakshina kannada,Karnataka,4.5,0,any,any,any,79,3,0.0,888906576,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+79,Dharmasthala,dakshina kannada,Karnataka,4.5,0,any,any,any,80,3,5.0,884364867,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+80,Kodanad,Ernakulam,Kerala,4.1,25,spring,family,any,81,3,5.0,879539643,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+81,Thodupuzha,Idukki ,Kerala,4.0,25,rainy,family,any,82,3,3.0,878192429,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+82,Kattappana,Idukki ,Kerala,3.9,20,any,family,any,83,3,0.0,879540748,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+83,Paravur,Kollam,Kerala,4.3,20,autumn,any,any,84,3,3.0,874791025,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+84,Parunthumpara,Idukki ,Kerala,4.2,20,any,any,any,85,3,0.0,874835091,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+85,Marayoor,Idukki ,Kerala,3.6,20,winter,any,any,86,3,0.0,878183381,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+86,Anamudi,Idukki ,Kerala,4.4,20,winter,any,any,87,3,5.0,878971773,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+87,Chinnar Wildlife Sanctuary ,munnar,Kerala,4.3,20,winter,any,any,88,3,3.0,881108684,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+88,Valara Waterfalls,munnar,Kerala,4.2,25,autumn,any,any,89,3,0.0,891903862,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+89,Top station ,munnar,Kerala,4.2,25,winter,any,any,90,3,4.0,888954412,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+90,Alleppey Beach,alappuzha,Kerala,4.4,25,spring,any,any,91,3,0.0,879361873,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+91,Krishnapuram palace,kayamkulam,Kerala,4.0,25,winter,any,any,92,3,4.0,877635573,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+92,Gwalior,Near Agra,Madhya Pradesh ,4.3,35,autumn,family,any,93,3,4.0,879876194,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+93,Khajuraho,Chhatarpur district ,Madhya Pradesh ,4.2,30,autumn,family,hindus,94,3,0.0,875296291,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+94,Orchha,Jhansi,Madhya Pradesh ,3.9,25,autumn,any,any,95,3,2.0,885557505,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+95,Bandhavgarh National Park,Jabalpur,Madhya Pradesh ,4.0,25,autumn,any,any,96,3,0.0,874781198,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+96,Sanchi,Bhopal,Madhya Pradesh ,4.0,30,rainy,family,buddist,97,4,4.0,879373848,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+97,Pachmarhi,Bhopal ,Madhya Pradesh ,4.2,25,autumn,any,any,98,4,0.0,879375537,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+98,Kanha National Park,jabalpur,Madhya Pradesh ,4.4,20,autumn,any,any,99,4,4.0,881961214,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+99,Pench National Park,Nagpur,Madhya Pradesh ,4.5,20,autumn,any,any,100,4,0.0,879857765,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+100,Bhimbetka,Bhopal ,Madhya Pradesh ,4.7,30,rainy,any,hindus,101,4,0.0,883709863,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+101,Panna National Park,"Gwalior,Bhopal ",Madhya Pradesh ,4.8,20,autumn,any,any,102,4,5.0,891383835,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+102,Bhopal,Bhopal,Madhya Pradesh ,5.0,20,rainy,any,any,103,4,4.0,877531942,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+103,Omkareshwar,indore,Madhya Pradesh ,5.0,35,autumn,family,hindus,104,4,3.0,888905170,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+104,Ujjain,indore,Madhya Pradesh ,5.0,30,autumn,family,hindus,105,4,0.0,880234639,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+105,Mumbai ,Mumbai ,Maharashtra ,5.0,20,autumn,any,any,106,4,0.0,886397722,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+106,Ajanta Caves,Aurangabad,Maharashtra ,4.2,30,autumn,any,any,107,4,0.0,878090499,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+107,Lonavala,pune,Maharashtra ,4.0,25,autumn,any,any,108,4,5.0,885848672,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+108,Mahabaleshwar,"pune,Mumbai ",Maharashtra ,4.3,20,autumn,any,any,109,4,0.0,876860807,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+109,Shirdi,"Mumbai, pune",Maharashtra ,5.0,15,autumn,family,hindus,110,4,4.0,875320714,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+110,ellora caves,aurangabad ,Maharashtra ,4.5,20,autumn,any,any,111,4,3.0,884207492,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+111,Panchgani,pune,Maharashtra ,4.2,25,autumn,any,any,112,4,0.0,881107178,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+112,Aurangabad ,mumbai,Maharashtra ,4.9,30,autumn,any,any,113,4,5.0,884288058,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+113,Nashik,Mumbai ,Maharashtra ,4.9,30,autumn,any,any,114,4,0.0,886987260,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+114,Ratnagiri,Mumbai ,Maharashtra ,4.8,25,autumn,family,any,115,4,4.0,884304936,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+115,Pune,pune,Maharashtra ,5.0,20,autumn,any,any,116,4,0.0,891384754,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+116,Imphal,Manipur ,Manipur,2.6,30,autumn,any,any,117,4,4.0,885844430,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+117,Thoubal,Manipur ,Manipur,3.4,30,autumn,any,any,118,4,3.0,879373460,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+118,Tamenglong,Manipur ,Manipur,3.1,25,autumn,any,any,119,4,0.0,881375854,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+119,Chandel,Manipur ,Manipur,3.8,30,autumn,any,any,120,4,4.0,879376641,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+120,Loktak Lake and Sendra Island,Imphal ,Manipur,3.6,35,autumn,any,any,121,4,4.0,891720887,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+121,Moirang,Manipur ,Manipur,3.5,30,autumn,any,any,122,4,0.0,879966895,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+122,Keibul Lamjao National Park,Bishnupur,Manipur,4.3,30,winter,family,any,123,4,4.0,884182806,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+123,Kangla Fort,Imphal,Manipur,4.3,0,any,any,any,124,4,5.0,878347874,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+124,Shri Shri Govindaji Temple,Imphal,Manipur,4.2,35,any,family,hindus,125,4,0.0,886122352,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+125,Manipur State Museum,Imphal,Manipur,4.0,25,any,family,any,126,4,2.0,879524643,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+126,Shirui kashong (peak),Ukhrul,Manipur,4.5,27,any,friends,any,127,4,5.0,880037702,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+127,RKCS Art Gallery And Museum,Imphal,Manipur,4.4,20,any,family,any,128,4,0.0,883815120,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+128,Khongjom War Memorial Complex,Thoubal,Manipur,4.4,10,rainy,friends,any,129,5,3.0,878089182,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+129,Loukoi Pat,Imphal,Manipur,3.9,27,rainy,solo,any,130,5,3.0,890687042,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+130,Shirui Kashong,Ukhrul,Manipur,4.6,22,summer,friends,any,131,5,0.0,888082216,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+131,Singda Dam,Imphal,Manipur,4.2,22,winter,friends,any,132,5,3.0,878769629,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+132,NohKaLikai Falls,Cherrapunji,Meghalaya,4.7,25,winter,any,any,133,5,4.0,879791710,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+133,Umiam Lake,Shillong,Meghalaya,4.5,24,rainy,friends,any,134,5,0.0,888904884,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+134,Elephant Falls,Shillong,Meghalaya,4.4,23,rainy,friends,any,135,5,0.0,880245029,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+135,Balpakram National Park,Garo Hills,Meghalaya,4.2,13,winter,solo,any,136,5,3.0,878092059,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+136,Nokrek National Park,Garo Hills,Meghalaya,4.2,15,any,friends,any,137,5,5.0,888205300,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+137,Ward's Lake,Shillong,Meghalaya,4.4,20,rainy,solo,any,138,5,5.0,877533771,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+138,Double Decker Living Root Bridge,Cherrapunji,Meghalaya,4.7,35,rainy,solo,any,139,5,0.0,880605185,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+139,"Shillong View Point, Laitkor Peak",Shillong,Meghalaya,4.4,23,summer,friends,any,140,5,4.0,891352010,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+140,Don Bosco Museum,Shillong,Meghalaya,4.4,10,any,family,christian,141,5,1.0,886434402,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+141,Laitlum Canyon,Shillong,Meghalaya,4.7,21,winter,friends,any,142,5,4.0,879876734,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+142,Vantawng Falls,Serchhip,Mizoram,4.1,26,winter,friends,any,143,5,0.0,879551380,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+143,Tam Dil,Saitual,Mizoram,4.4,19,winter,family,any,144,5,2.0,884714402,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+144,Tropic of Cancer - Mizoram,Aizwal,Mizoram,4.3,28,winter,family,any,145,5,0.0,882139746,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+145,Phawngpui National Park,Lawngtlai,Mizoram,4.2,16,any,family,any,146,5,4.0,884538403,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+146,Dampa Tiger Reserve Sanctuary,Aizwal,Mizoram,3.8,15,winter,family,any,147,5,2.0,880605157,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+147,Mizoram State Museum,Aizwal,Mizoram,4.1,18,winter,friends,any,148,5,5.0,886323090,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+148,Reiek,Aizwal,Mizoram,4.5,25,winter,friends,any,149,5,0.0,888954930,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+149,Murlen National Park,Champhai,Mizoram,4.3,20,winter,family,any,150,5,0.0,883955745,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+150,Palak Lake,Saiha,Mizoram,4.1,21,winter,solo,any,151,5,4.0,889502823,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+151,Tuirihiau falls,Serchhip,Mizoram,4.4,24,winter,friends,any,152,5,3.0,883698454,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+152,Intanki National Park,Peren,Nagaland,4.0,13,winter,family,any,153,5,3.0,883452363,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+153,Kohima War Cemetery,Kohima,Nagaland,4.2,40,any,family,any,154,5,0.0,891449922,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+154,Nagaland State Museum,Kohima,Nagaland,3.8,35,any,family,any,155,5,3.0,877878184,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+155,Naga Heritage Village,Kohima,Nagaland,4.5,28,winter,family,any,156,5,4.0,879525876,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+156,Kachari Ruins,Dimapur,Nagaland,4.2,32,any,family,any,157,5,4.0,876860807,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+157,Shilloi Lake,Phek,Nagaland,4.3,25,rainy,friends,any,158,5,0.0,885678247,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+158,Puliebadze WildLife Sanctuary,Jotsoma,Nagaland,4.4,26,winter,friends,any,159,5,4.0,877886846,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+159,Nagaland Zoological Park,Dimapur,Nagaland,3.7,13,any,family,any,160,5,4.0,874724988,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+160,Dzuleke,Kohima,Nagaland,4.5,23,winter,friends,any,161,6,0.0,879456350,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+161,Kohima Cathedral Church,Kohima,Nagaland,4.6,45,any,family,christian,162,6,0.0,879467295,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+162,nohkalikai falls,cherrapunji,meghalaya,4.7,0,summer,any,any,163,6,5.0,878870987,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+163,umiam lake,shillong,meghalaya,4.5,0,any,friends,any,164,6,3.0,891387947,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+164,elephant falls,shillong,meghalaya,4.4,0,summer,any,any,165,6,0.0,891383204,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+165,double descker living roots bridge,cherrapunji,meghalaya,4.8,15,any,friends,any,166,6,2.0,888067405,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+166,balpakram national park,garo hills,meghalaya,4.2,0,any,any,any,167,6,3.0,881108425,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+167,tropic of cancer,mizoram,mizoram,4.3,0,any,friends,any,168,6,0.0,879371261,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+168,mizoram state museum,aizawl,mizoram,4.1,0,any,family,any,169,6,4.0,876973939,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+169,solomon's temple,aizawl,mizoram,4.4,0,any,family,christian,170,6,4.0,875537965,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+170,lushai hills,patkai,mizoram,4.4,20,spring,friends,any,171,6,0.0,885412840,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+171,folkland park,aizawl,mizoram,4.2,0,any,family,any,172,6,4.0,875744136,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+172,kohima war cemetery,kohima,nagaland,4.2,0,summer,solo,any,173,6,3.0,875636053,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+173,dimapur Ao baptist church,dimapur,nagaland,4.6,0,any,family,christian,174,6,0.0,886324028,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+174,dzukou valley trek,dzukou ,nagaland,4.8,20,summer,friends,any,175,6,4.0,883612356,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+175,kalibari temple,dimapur,nagaland,4.8,0,spring,family,hindus,176,6,0.0,875975656,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+176,triple falls seithekema,dimapur,nagaland,4.5,20,summer,solo,any,177,6,0.0,875298353,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0
+177,konark sun temple ,konark,odisha,4.6,0,spring,family,hindus,178,6,5.0,887401701,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+178,shri jagannath temple ,puri,odisha,4.7,0,summer,family,hindus,179,6,4.0,886472768,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+179,similipal national park,bhanjpur,odisha,4.3,0,any,any,any,180,6,3.0,884183336,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+180,golden beach,puri,odisha,4.5,15,summer,friends,any,181,6,1.0,892174404,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+181,mukteswara temple ,bhudaneswar,odisha,4.6,0,any,family,hindus,182,6,0.0,883601324,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+182,nandankanan zoological park,bhudaneswar,odisha,4.4,0,any,any,any,183,6,3.0,880130193,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+183,udaygiri and khandagiri caves,bhudaneswar,odisha,4.4,20,any,friends,any,184,6,2.0,875542174,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+184,lingaraja temple,bhudaneswar,odisha,4.6,0,summer,family,hindus,185,6,0.0,885680138,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+185,hirakud dam,hirakund,odisha,4.2,20,spring,friends,any,186,6,4.0,881515011,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+186,nagaland state museum,bayavu hills,nagaland,3.8,0,any,any,any,187,6,3.0,891347949,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+187,naga heritage village,naga,nagaland,4.5,0,any,solo,any,188,6,0.0,891353086,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+188,shilloi lake,lustam village,nagaland,4.3,10,any,friends,any,189,6,4.0,878183481,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+189,mount saramati,burma,nagaland,4.2,20,spring,solo,any,190,6,5.0,884128554,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+190,ntanki national park,peren,nagaland,4.0,0,any,any,any,191,6,0.0,876923913,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+191, tam dil lake,aizawl,mizoram,4.4,20,summer,friends,any,192,6,5.0,878955442,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+192,dampa tiger reserve ,western mizoram,mizoram,3.9,15,any,any,any,193,7,3.0,874786392,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+193,mizoram science centre,zarkawt ,mizoram,4.1,0,any,friends,any,194,7,0.0,891723086,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+194,khawhpawp water falls ,aizawl,mizoram,4.0,20,spring,solo,any,195,7,4.0,875801662,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+195,pushpak gurudwara,aizawl,mizoram,4.1,0,any,family,hindus,196,7,0.0,892428688,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+196,kyllang rock ,khasi hills ,meghalaya,4.2,20,any,solo,any,197,7,3.0,876857977,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+197,baghmara,baghmara,meghalaya,4.0,0,any,friends,any,198,7,3.0,888906966,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+198,ward's lake,shillong,meghalaya,4.4,20,any,friends,any,199,7,2.0,891385985,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+199,nokrek national park,tura,meghalaya,4.2,0,any,family,any,200,7,0.0,875216545,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+200,don bosco museum,shillong,meghalaya,4.4,0,any,any,any,201,7,3.0,886443455,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+201,Ujjyanta Palace,Agartala,Tripura,4.6,20,any,any,any,202,7,4.0,882164999,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+202,Heritage Park,Agartala,Tripura,4.2,25,any,any,any,203,7,0.0,878542420,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+203,Haveli Museum,Agartala,Tripura,3.9,30,any,any,any,204,7,4.0,880036718,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+204,Jagannath Bari,Agartala,Tripura,4.4,35,winter,family,hindus,205,7,3.0,892910207,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+205,Tripureshwari Temple,Udaipur,Tripura,4.7,35,any,any,hindus,206,7,4.0,882140926,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+206,Kalyan Sagar,Udaipur,Tripura,4.4,20,summer,any,any,207,7,0.0,879455957,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+207,Rowa Wildlife Sanctuary ,Dharmanagar,Tripura,3.5,15,summer,any,any,208,7,3.0,875654637,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+208,Unakoti,Kailashahar,Tripura,4.5,35,any,family,hindus,209,7,0.0,884386343,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+209,Trishna Wild Life,Belonia,Tripura,3.9,15,summer,friends,any,210,7,0.0,881105481,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+210,Rajbari National Park,Belonia,Tripura,5.0,20,any,friends,any,211,7,5.0,888549622,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+211,golconda fort ,hyderabad,telangana,4.4,0,spring,any,any,212,7,0.0,886272175,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+212,charminar,hyderabad,telangana,4.4,0,spring,any,any,213,7,3.0,888104153,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+213,ramoji film city,hyderabad,telangana,4.4,0,any,any,any,214,7,0.0,878962392,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+214,salar jung museum,hyderabad,telangana,4.4,0,any,any,any,215,7,4.0,874724710,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+215,hussain sagar,hyderabad,telangana,4.3,0,summer,any,any,216,7,4.0,886323648,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+216,birla mandir,hyderabad,telangana,4.6,0,any,family,hindus,217,7,3.0,882922806,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+217,mecca masjid,hyderabad,telangana,4.7,0,any,family,muslim,218,7,0.0,891170769,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+218,qutb shahi tombs,hyderabad,telangana,4.4,0,any,any,any,219,7,0.0,877399018,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+219,chilkur balaji temple,chilkur,telangana,4.3,0,any,family,hindus,220,7,2.0,892838559,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+220,thousand pillar temple,warangal,telangana,4.5,0,spring,family,hindus,221,7,5.0,884238860,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+221,Taj Mahal,Agra,Uttar Pradesh,4.6,0,any,any,any,222,7,0.0,884304936,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+222,Noida,Noida,Uttar Pradesh,4.0,25,autumn,any,any,223,7,4.0,887665548,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+223,Jhansi,Jhansi,Uttar Pradesh,4.0,15,any,any,any,224,7,4.0,891383319,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+224,Kashi Viswanath Temple,varanasi,Uttar Pradesh,4.5,45,any,family,hindus,225,8,0.0,879455113,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+225,Vrindavan,Vrindavan,Uttar Pradesh,4.2,30,any,any,hindus,226,8,3.0,879521396,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+226,Lucknow,Locknow,Uttar Pradesh,4.1,0,winter,any,any,227,8,0.0,879454628,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+227,Ayodhya,Ayodhya,Uttar Pradesh,4.2,30,autumn,any,hindus,228,8,1.0,886987605,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+228,Hastinapur,Hastinapur,Uttar Pradesh,4.6,25,autumn,any,hindus,229,8,4.0,877877775,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+229,Kanpur,Kanpur,Uttar Pradesh,4.8,30,any,any,any,230,8,5.0,879524921,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+230,Prayagraj,Allahabad,Uttarpradesh,4.1,30,any,any,hindus,231,8,0.0,891446165,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+231,Fatehpur Sikri,Agra,Uttar Pradesh,4.6,30,any,any,any,232,8,5.0,883599249,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+232,Sree Venkateswara Swamy Temple,Tirupathi,Andhra Pradesh,4.8,40,any,any,hindus,233,8,3.0,880937882,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+233,Araku,Vizag,Andhra Pradesh,4.2,0,autumn,any,any,234,8,0.0,879467542,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+234,Horsley Hills,Madanapalle,Andhra Pradesh,4.0,0,autumn,any,any,235,8,1.0,877727122,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+235,Sri Raghavendra Swamy Mutt,Mantralaya,Andhra Pradesh,4.7,40,any,any,hindus,236,8,4.0,882078621,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+236,Talakona Waterfalls,tirupathi,Andhra Pradesh,4.4,12,autumn,any,any,237,8,0.0,874793035,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+237,Borra Caves,Araku,Andhra Pradesh,4.5,15,any,any,any,238,8,2.0,886323068,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+238,Bheemili Beach,Vizag,Andhra Pradesh,4.3,7,autumn,any,any,239,8,2.0,879541148,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+239,Srisailam Dam,Srisailam,Andhra Pradesh,4.7,20,autumn,any,any,240,8,0.0,891438397,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+240,Pulicat Lake and Sanctuary,Sullurpet,Andhra Pradesh,4.0,10,autumn,any,any,241,8,0.0,879875940,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+241,SHAR,Srihari Kota,Andhra Pradesh,4.7,0,any,any,any,242,8,4.0,877819599,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+242,Papikondalu,Rajahmundry,Andhra Pradesh,4.4,0,autumn,any,any,243,8,0.0,877531791,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+243,Yaganti Temple,Yaganti,Andhra Pradesh,4.6,30,autumn,any,hindus,244,8,5.0,884128458,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+244,Indira Gandhi Zoological Park,Visakhapatnam,Andhra Pradesh,4.1,0,autumn,any,any,245,8,1.0,891632142,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+245,Chandragiri Fort,Chandragiri,Andhra Pradesh,4.2,0,any,any,any,246,8,0.0,882826555,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+246,Namdapha National Park,Namdaph,Arunachal Pradesh,4.3,15,any,any,any,247,8,2.0,879484804,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+247,Tawang,Tawang,Arunachal Pradesh,4.7,0,summer,any,any,248,8,4.0,879374686,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+248,Sela Pass,Tawang,Arunachal Pradesh,4.8,0,autumn,any,any,249,8,0.0,876018608,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+249,Ziro Valley,Ziro,Arunachal Pradesh,4.8,20,summer,any,any,250,8,0.0,875653271,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+250,Tezu,Lohit,Arunachal Pradesh,4.1,20,winter,any,buddist,251,8,4.0,882078040,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+251,Roing,Roing,Arunachal Pradesh,4.1,0,autumn,any,any,252,8,5.0,882157581,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+252,Bomdila,West Kameng,Arunachal Pradesh,4.7,30,summer,family,any,253,8,0.0,884150257,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+253,Dirang Valley,Dirang ,Arunachal Pradesh,4.9,20,summer,any,any,254,8,3.0,875747190,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+254,Pasi Ghat,East Siang,Arunachal Pradesh,3.9,20,spring,any,any,255,8,3.0,881961671,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+255,Itanagar,Itanagar,Arunachal Pradesh,4.0,0,autumn,any,any,256,8,0.0,875307407,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+256,Aalo,West Siang,Arunachal Pradesh,3.8,25,autumn,any,any,257,9,0.0,878089716,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+257,Nuranang Falls,Tawang,Arunachal Pradesh,4.3,25,rainy,any,any,258,9,3.0,890881335,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+258,Bhalukpong,West Kameng,Arunachal Pradesh,4.4,0,autumn,any,any,259,9,3.0,889502324,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+259,Sangti,Dirang ,Arunachal Pradesh,4.0,0,rainy,any,any,260,9,3.0,879525876,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+260,Changlang,Changlang,Arunachal Pradesh,4.5,25,autumn,any,any,261,9,0.0,879485532,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+261,Kaziranga National Park,Guwahati,Assam,3.9,25,autumn,any,any,262,9,5.0,874775038,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+262,Manas National Park,Gobardhana,Assam,3.8,20,autumn,any,any,263,9,5.0,879966498,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+263,Kamakhya Temple,kamakhya,Assam,4.5,30,autumn,family,hindus,264,9,0.0,875742942,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+264,Majuli Island,Majuli,Assam,4.7,0,autumn,any,any,265,9,2.0,875744173,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+265,Kakochang Waterfalls,Kakochang ,Assam,4.5,0,autumn,any,any,266,9,4.0,883601089,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+266,Tocklai Tea Research Centre,Jorhat,Assam,4.5,25,any,any,any,267,9,5.0,879394264,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+267,Guwahati Planetarium,Guwahati,Assam,4.3,20,any,any,any,268,9,4.0,880308578,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+268,Hajo,Guwahati,Assam,4.0,30,autumn,any,any,269,9,0.0,891542540,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+269,Padam Pukhuri,Tezpur,Assam,4.0,20,any,any,any,270,9,2.0,881368243,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+270,Haflong Hills,Haflong,Assam,4.2,25,autumn,any,any,271,9,4.0,891374868,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+271,Dibrugarh,Dibrugarh,Assam,4.4,25,autumn,any,any,272,9,1.0,875744501,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+272,Tinsukia,Tinsukia,Assam,3.9,0,autumn,any,any,273,9,0.0,882076587,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+273,Dispur,Dispur,Assam,4.0,0,any,any,any,274,9,5.0,879283786,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+274,Amaravathi,Guntur,Andhra Pradesh,4.1,0,any,any,any,275,9,0.0,892334609,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+275,Bodh Gaya,Gaya,Bihar,4.3,20,autumn,any,buddist,276,9,4.0,880308755,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+276,Patna,Patna,Bihar,4.2,25,autumn,any,sikhs,277,9,2.0,878961624,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+277,Nalanda,Nalanda,Bihar,4.2,0,autumn,any,buddist,278,9,4.0,875240090,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+278,Vaishali,Patna,Bihar,4.4,30,autumn,any,any,279,9,0.0,892430369,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+279,Madhubani,Darbhanga,Bihar,4.0,30,autumn,any,any,280,9,0.0,891352093,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+280,Muzaffarpur,Muzaffarpur,Bihar,3.9,25,any,any,any,281,9,4.0,886122952,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+281,Bhugalpur,Bhagulpur,Bihar,4.2,0,autumn,any,any,282,9,1.0,878961814,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+282,Hot Spring,Rajgir,Bihar,4.5,0,rainy,any,any,283,9,1.0,884140579,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+283,Jal Mandir,Pawapuri,Bihar,4.1,30,rainy,any,jain,284,9,0.0,879456199,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+284,Hajipur,Hajipur,Bihar,3.9,25,any,any,any,285,9,3.0,891450023,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+285, Karkat Waterfall,Karkathgarh,Bihar,4.5,20,rainy,friends,any,286,9,0.0,888205855,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+286,Dhungeswari hills,Larpur,Bihar,4.0,20,any,any,buddist,287,9,4.0,889651549,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+287,Patna Musuem,Patna,Bihar,4.3,0,any,any,any,288,9,0.0,889124507,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0

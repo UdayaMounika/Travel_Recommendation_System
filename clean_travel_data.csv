@@ -1,0 +1,287 @@
+,location,place,state,location_rating,age,season,affordable,types_of_travel,religion,item_id,user_id,user_rating,timestamp
+0,Bhoramdeo Temple,"Chaura village, Kawardha town", chhattisgarh,4.0,0,winter,Yes,family,hindu,1,1,0.0,881250949
+1,  maitri bagh,"Near to Maroda, Bhilai",chhattisgarh,4.0,20,"summer,spring,winter,rainy,autumn",Yes,friends,any,2,1,3.0,891717742
+2,Tirathgarh Falls,Bastar district,chhattisgarh,4.6,25,monsoon,Yes,friends,any,3,1,1.0,878887116
+3,Sirpur Heritage Site,bank of holy Mahanadi river,chhattisgarh,5.0,0,winter,Yes,family,hindu,4,1,0.0,880606923
+4,Rajeev Smriti Van,Raipur,chhattisgarh,3.9,0,"summer,spring,winter,rainy,autumn",Yes,solo,any,5,1,1.0,886397596
+5,Palolem Beach,Canacona,Goa,5.0,22,spring,Yes,friends,any,6,1,0.0,884182806
+6,Calangute beach,North Goaalangute beach,Goa,4.4,0,monsoon,Yes,friends,any,7,1,0.0,881171488
+7,Fort Aguada,Candolim,Goa,4.2,0,monsoon,Yes,"friends,family,solo",any,8,1,5.0,891628467
+8,Chapora Fort,Vagato,Goa,4.3,35,monsoon,Yes,family,any,9,1,3.0,886324817
+9,Basilica de Bom Jesus,Bainguinim,Goa,4.5,0,summer,Yes,family,christian,10,1,0.0,883603013
+10,dudhsagar-falls,�Mandovi River�,Goa,4.6,18,winter,Yes,friends,any,11,1,2.0,879372434
+11,Reis Magos Fort Arpora Night Market,Arpora,Goa,4.2,0,"summer,spring,winter,rainy,autumn",Yes,family,any,12,1,0.0,879781125
+12,Deltin Royale Casino,Panaji,Goa,4.3,20,autumn,Yes,friends,any,13,1,5.0,876042340
+13,Naval Aviation Museum,Vasco da Gama,Goa,4.5,24,spring,Yes,friends,any,14,1,3.0,891035994
+15,Champaner-Pavagadh Archaeological Park,�Panchmahal,Gujarat,4.4,0,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",any,16,1,3.0,879485318
+16,Konark Sun Temple,Konark,Gujarat,4.6,0,spring,Yes,family,hindu,17,1,0.0,879270459
+17,Polo Forest,Gujarat,Gujarat,4.3,15,monsoon,yes,friends,any,18,1,2.0,879539794
+18,Dwarka,Gujarat,Gujarat,4.2,0,winter,Yes,family,hindu,19,1,0.0,874834944
+19,Somnath,Veraval,Gujarat,4.8,35,winter,Yes,family,hindu,20,1,2.0,892079237
+20,Gir National Park,Gujarat,Gujarat,4.2,11,winter,Yes,friends,any,21,1,4.0,886176814
+21,Rann Of Kutch,Kutch,Gujarat,4.5,22,winter,yes,friends,any,22,1,4.0,892738452
+22,Makarpura Palace,Vadodara,Gujarat,4.0,0,summer,yes,family,any,23,1,0.0,877881320
+23,EME Temple,Gujarat,Gujarat,4.7,30,monsoon,yes,family,hindu,24,1,2.0,874833878
+24,Brahma Sarovar,kurukshetra,Harayana,4.7,0,autumn,yes,family,hindu,25,1,4.0,887736532
+25,Kabuli Bagh Mosque,Panipat,Harayana,4.0,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",musilm,26,1,0.0,879196566
+26,Holy Redeemer Church,Ambala,Harayana,4.6,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",chritian,27,1,5.0,892430094
+27,Sultanpur Bird Sanctuary,Harayana,Harayana,4.1,0,winter,yes,friends,any,28,1,0.0,883748450
+28,Leisure Valley Park,Gurgaon,Harayana,4.7,10,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,29,1,4.0,875747401
+29,Kingdom of Dreams,Harayana,Harayana,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,30,1,0.0,876861185
+30,Jatmai Temple,Raipur,chhattisgarh,4.5,0,rainy,yes,family,hindu,31,1,3.0,877052329
+31,Nandan Van Zoo,�Atari,chhattisgarh,3.9,25,"summer,spring,winter,rainy,autumn",yes,friends,any,32,1,0.0,882075827
+32,Ghatarani Waterfalls,Raipur,chhattisgarh,4.3,22,summer,yes,friends,any,33,2,0.0,879539727
+33,MM Fun City,�Arang,chhattisgarh,4.1,25,"summer,spring,winter,rainy,autumn",yes,friends,any,34,2,4.0,880731963
+34,Solang Valley,Manali,Himachal pradesh,4.0,40,"summer,winter",yes,"family,friends",any,35,2,0.0,884238860
+35,jakhu temple,shimla,Himachal pradesh,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",hindus,36,2,4.0,886890835
+36,Beas River,central Himachal pradesh,Himachal pradesh,4.5,20,"summer,spring,winter,rainy,autumn",yes,"friends,family",any,37,2,1.0,878962623
+37,Manikaran Gurudwara,Kullu ,Himachal pradesh,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo","sikhs,hindus",38,2,0.0,891295330
+38,Jogini Waterfall,Manali,Himachal pradesh,4.5,0,"summer,spring,autumn",yes,"friends,family,solo",any,39,2,1.0,874791932
+39,Spiti valley,Lahaul,Himachal pradesh,5.0,0,"summer,autumn",yes,"friends,family,solo",any,40,2,4.0,891350932
+40,Hidimba Devi Temple,Manali,Himachal pradesh,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",hindus,41,2,0.0,877888877
+41,Triund Hill,Kangra,Himachal pradesh,4.5,20,"summer,autumn",yes,"friends,solo",any,42,2,4.0,885329322
+42,Tirthan Valley,Kullu ,Himachal pradesh,5.0,20,"summer,spring,winter",yes,"friends,family",any,43,2,2.0,884114233
+43,Prashar lake,Mandi,Himachal pradesh,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,44,2,3.0,874791805
+44,Bhagus Waterfall,Dharamshala,Himachal pradesh,5.0,20,summer,yes,"friends,family,solo",any,45,2,5.0,875333916
+45,Masroor Rock Cut temple,Lahalpur,Himachal pradesh,4.5,0,"summer,spring",yes,"friends,family,solo",hindus,46,2,0.0,884921594
+46,Barot valley,Mandi,Himachal pradesh,4.5,20,"summer,spring,autumn,winter",yes,"family,friends",any,47,2,5.0,879741196
+47,parvathi valley,Kullu ,Himachal pradesh,4.5,20,"summer,spring",yes,"friends,family,solo",any,48,2,0.0,879641194
+48,Dal Lake,Srinagar,Jammu & Kashmir,4.5,0,"summer,monsoon,autumn",yes,"friends,family,solo",any,49,2,5.0,886519097
+49,Vaishnavo Devi Mandir,Trikuta hills,Jammu & Kashmir,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",hindus,50,2,0.0,882823437
+50,Gulmarg,Gulmarg,Jammu & Kashmir,4.5,20,"summer,spring,autumn,winter",yes,"friends,family",any,51,2,4.0,886271884
+51,Pahalgam,Anantnag,Jammu & Kashmir,4.5,20,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,52,2,2.0,876535131
+52,Amarnath,Anantnag,Jammu & Kashmir,4.5,20,"summer,monsoon",yes,"friends,family,solo",hindus,53,2,0.0,890618898
+53,Nubra Valley,Ladakh,Jammu & Kashmir,5.0,0,monsoon,yes,"friends,family,solo",any,54,2,5.0,885853415
+54,Sonamarg,Ganderbal,Jammu & Kashmir,4.5,0,"summer,monsoon,autumn",yes,"friends,family,solo",any,55,2,5.0,888205088
+55,Jammu,Jammu,Jammu & Kashmir,4.0,20,"autumn,winter,spring",yes,"friends,family,solo",any,56,2,0.0,880037164
+56,Lamayur,Leh,Jammu & Kashmir,4.5,20,summer,yes,"friends,family,solo",any,57,2,0.0,879877127
+57,Deoghar temple,Deoghar,Jharkhand,4.5,0,"monsoon,autumn,winter,spring",yes,"friends,family,solo",hindus,58,2,5.0,880474293
+58,Jamshedpur,Jamshedpur,Jharkhand,4.0,0,"autumn,winte,spring",yes,"friends,family,solo",any,59,2,5.0,881107687
+59,Ghatshila,singhbhum,Jharkhand,4.2,0,"autumn,winter,spring",yes,"friends,family,solo",any,60,2,0.0,881103977
+60,dasham falls,Ranchi,Jharkhand,3.5,0,"monsoon,autumn,spring",yes,"friends,family,solo",any,61,2,3.0,881171009
+61,Netarhat,Latehar,Jharkhand,4.0,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,62,2,0.0,879667584
+62,hazaribagh,chhota nagpur,Jharkhand,4.5,0,"autumn,winter,spring",yes,"friends,family,solo",any,63,2,4.0,884112673
+64,Banglore,Banglore,Karnataka,4.0,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,65,3,4.0,884920949
+65,mysore,mysore,Karnataka,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,66,3,5.0,879024232
+66,Chikmagalur,Mullayagiri,Karnataka,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,67,3,0.0,892738341
+67,hampi,Vijayanagara,Karnataka,4.5,0,"autumn,winter,spring",yes,"friends,family,solo",hindus,68,3,5.0,883326620
+68,udupi,udipi,Karnataka,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,69,3,0.0,883698581
+69,Murudeshwar,uttar kannada,Karnataka,4.5,0,"autumn,winter,spring,summer",yes,"friends,family,solo",hindus,70,3,4.0,891550094
+70,gokarna,uttar kannada,Karnataka,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",hindus,71,3,0.0,893277702
+71,Dandiel,uttar kannada,Karnataka,4.0,20,"autumn,winter,spring,summer",yes,"friends,family,solo",any,72,3,3.0,879987440
+72,jog falls,Shivamogga,Karnataka,4.5,20,"monsoon,autumn,winter",yes,"friends,family,solo",any,73,3,1.0,890251826
+73,shravanabelagola,Hassan,Karnataka,4.5,0,"autumn,winter,summer,spring",yes,"friends,family,solo",jain,74,3,3.0,884923047
+74,pattadakal,Bagalkot,Karnataka,4.5,0,"autumn,winter,spring",yes,"friends,family,solo","hindus,jain",75,3,0.0,879546723
+75,nandi hills,Banglore,Karnataka,4.0,0,"autumn,winter,spring,summer",yes,"friends,family,solo",any,76,3,2.0,887249482
+76,bijapur,bijapur,Karnataka,4.5,0,"autumn,winter,spring",yes,"friends,family,solo","islam,any",77,3,0.0,882823954
+77,Kemmanagundi,chikamagaluru,Karnataka,4.5,0,"autumn,winter,spring,summer",yes,"friends,family,solo",any,78,3,3.0,886475558
+78,manglore,dakshina kannada,Karnataka,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,79,3,0.0,888906576
+79,Dharmasthala,dakshina kannada,Karnataka,4.5,0,"autumn,winter,spring",yes,"friends,family,solo","hindus,jain",80,3,5.0,884364867
+80,Kodanad,Ernakulam,Kerala,4.1,25,spring,Yes,family,any,81,3,5.0,879539643
+81,Thodupuzha,Idukki ,Kerala,4.0,25,monsoon,Yes,family,any,82,3,3.0,878192429
+82,Kattappana,Idukki ,Kerala,3.9,20,"summer,spring,winter,rainy,autumn",Yes,family,any,83,3,0.0,879540748
+83,Paravur,Kollam,Kerala,4.3,20,autumn,Yes,"friends,solo",any,84,3,3.0,874791025
+84,Parunthumpara,Idukki ,Kerala,4.2,20,"summer,spring,winter,rainy,autumn",Yes,"friends,solo",any,85,3,0.0,874835091
+85,Marayoor,Idukki ,Kerala,3.6,20,winter,Yes,"friends,solo",any,86,3,0.0,878183381
+86,Anamudi,Idukki ,Kerala,4.4,20,winter,Yes,"friends,solo",any,87,3,5.0,878971773
+87,Chinnar Wildlife Sanctuary ,munnar,Kerala,4.3,20,winter,Yes,"friends,solo",any,88,3,3.0,881108684
+88,Valara Waterfalls,munnar,Kerala,4.2,25,autumn,Yes,"friends,solo",any,89,3,0.0,891903862
+89,Top station ,munnar,Kerala,4.2,25,winter,Yes,"friends,solo",any,90,3,4.0,888954412
+90,Alleppey Beach,alappuzha,Kerala,4.4,25,spring,Yes,"friends,solo",any,91,3,0.0,879361873
+91,Krishnapuram palace,kayamkulam,Kerala,4.0,25,winter,Yes,"friends,solo",any,92,3,4.0,877635573
+92,Gwalior,Near Agra,Madhya Pradesh ,4.3,35,autumn,yes,family,religious ,93,3,4.0,879876194
+93,Khajuraho,Chhatarpur district ,Madhya Pradesh ,4.2,30,autumn,No,family ,hindu,94,3,0.0,875296291
+94,Orchha,Jhansi,Madhya Pradesh ,3.9,25,autumn,yes,"family,friends",religious ,95,3,2.0,885557505
+95,Bandhavgarh National Park,Jabalpur,Madhya Pradesh ,4.0,25,autumn,yes,"solo,family,friends ",any,96,3,0.0,874781198
+96,Sanchi,Bhopal,Madhya Pradesh ,4.0,30,monsoon,no,family,buddhism ,97,4,4.0,879373848
+97,Pachmarhi,Bhopal ,Madhya Pradesh ,4.2,25,autumn,yes,"family,friends ",any,98,4,0.0,879375537
+98,Kanha National Park,jabalpur,Madhya Pradesh ,4.4,20,autumn,no,"family,friends ",any,99,4,4.0,881961214
+99,Pench National Park,Nagpur,Madhya Pradesh ,4.5,20,autumn,yes,"family,friends ",any,100,4,0.0,879857765
+100,Bhimbetka,Bhopal ,Madhya Pradesh ,4.7,30,monsoon,yes,"family,friends ",hindu,101,4,0.0,883709863
+101,Panna National Park,"Gwalior,Bhopal ",Madhya Pradesh ,4.8,20,autumn,no,"solo,family,friends ",any,102,4,5.0,891383835
+102,Bhopal,Bhopal,Madhya Pradesh ,5.0,20,monsoon,yes,"solo,family,friends ",any,103,4,4.0,877531942
+103,Omkareshwar,indore,Madhya Pradesh ,5.0,35,autumn,yes,family,hindu,104,4,3.0,888905170
+104,Ujjain,indore,Madhya Pradesh ,5.0,30,autumn,yes,family,hindu,105,4,0.0,880234639
+105,Mumbai ,Mumbai ,Maharashtra ,5.0,20,autumn,no,"solo,family,friends ",any,106,4,0.0,886397722
+106,Ajanta Caves,Aurangabad,Maharashtra ,4.2,30,autumn,no,"solo,family,friends ",any,107,4,0.0,878090499
+107,Lonavala,pune,Maharashtra ,4.0,25,autumn,yes,"family,friends ",any,108,4,5.0,885848672
+108,Mahabaleshwar,"pune,Mumbai ",Maharashtra ,4.3,20,autumn,yes,"family,friends ",any,109,4,0.0,876860807
+109,Shirdi,"Mumbai, pune",Maharashtra ,5.0,15,autumn,yes,family,hindu,110,4,4.0,875320714
+110,ellora caves,aurangabad ,Maharashtra ,4.5,20,autumn,yes,"family,friends ",any,111,4,3.0,884207492
+111,Panchgani,pune,Maharashtra ,4.2,25,autumn,yes,"solo,family,friends ",any,112,4,0.0,881107178
+112,Aurangabad ,mumbai,Maharashtra ,4.9,30,autumn,yes,"family,friends ",religious ,113,4,5.0,884288058
+113,Nashik,Mumbai ,Maharashtra ,4.9,30,autumn,yes,"family,friends ",religious ,114,4,0.0,886987260
+114,Ratnagiri,Mumbai ,Maharashtra ,4.8,25,autumn,yes,family,any,115,4,4.0,884304936
+115,Pune,pune,Maharashtra ,5.0,20,autumn,yes,"solo,family,friends ",any,116,4,0.0,891384754
+116,Imphal,Manipur ,Manipur,2.6,30,autumn,No,"family,friends ",any,117,4,4.0,885844430
+117,Thoubal,Manipur ,Manipur,3.4,30,autumn,yes,"solo,family,friends ",any,118,4,3.0,879373460
+118,Tamenglong,Manipur ,Manipur,3.1,25,autumn,No,"solo,family,friends ",any,119,4,0.0,881375854
+119,Chandel,Manipur ,Manipur,3.8,30,autumn,Yes,"solo,family,friends ",any,120,4,4.0,879376641
+120,Loktak Lake and Sendra Island,Imphal ,Manipur,3.6,35,autumn,Yes,"solo,family,friends ",any,121,4,4.0,891720887
+121,Moirang,Manipur ,Manipur,3.5,30,autumn,Yes,"family,friends ",any,122,4,0.0,879966895
+122,Keibul Lamjao National Park,Bishnupur,Manipur,4.3,30,winter,yes,family,any,123,4,4.0,884182806
+123,Kangla Fort,Imphal,Manipur,4.3,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,124,4,5.0,878347874
+124,Shri Shri Govindaji Temple,Imphal,Manipur,4.2,35,"summer,spring,winter,rainy,autumn",yes,family,hindu,125,4,0.0,886122352
+125,Manipur State Museum,Imphal,Manipur,4.0,25,"summer,spring,winter,rainy,autumn",no,family,any,126,4,2.0,879524643
+126,Shirui kashong (peak),Ukhrul,Manipur,4.5,27,"summer,spring,winter,rainy,autumn",no,friends,any,127,4,5.0,880037702
+127,RKCS Art Gallery And Museum,Imphal,Manipur,4.4,20,"summer,spring,winter,rainy,autumn",yes,family,any,128,4,0.0,883815120
+128,Khongjom War Memorial Complex,Thoubal,Manipur,4.4,10,monsoon,no,friends,any,129,5,3.0,878089182
+129,Loukoi Pat,Imphal,Manipur,3.9,27,monsoon,yes,solo,any,130,5,3.0,890687042
+130,Shirui Kashong,Ukhrul,Manipur,4.6,22,summer,no,friends,any,131,5,0.0,888082216
+131,Singda Dam,Imphal,Manipur,4.2,22,winter,yes,friends,any,132,5,3.0,878769629
+132,NohKaLikai Falls,Cherrapunji,Meghalaya,4.7,25,winter,yes,"solo,friends",any,133,5,4.0,879791710
+133,Umiam Lake,Shillong,Meghalaya,4.5,24,monsoon,yes,friends,any,134,5,0.0,888904884
+134,Elephant Falls,Shillong,Meghalaya,4.4,23,monsoon,yes,friends,any,135,5,0.0,880245029
+135,Balpakram National Park,Garo Hills,Meghalaya,4.2,13,winter,no,solo,any,136,5,3.0,878092059
+136,Nokrek National Park,Garo Hills,Meghalaya,4.2,15,"summer,spring,winter,rainy,autumn",no,friends,any,137,5,5.0,888205300
+137,Ward's Lake,Shillong,Meghalaya,4.4,20,monsoon,yes,solo,any,138,5,5.0,877533771
+138,Double Decker Living Root Bridge,Cherrapunji,Meghalaya,4.7,35,monsoon,yes,solo,any,139,5,0.0,880605185
+139,"Shillong View Point, Laitkor Peak",Shillong,Meghalaya,4.4,23,summer,yes,friends,any,140,5,4.0,891352010
+140,Don Bosco Museum,Shillong,Meghalaya,4.4,10,"summer,spring,winter,rainy,autumn",yes,family,christian,141,5,1.0,886434402
+141,Laitlum Canyon,Shillong,Meghalaya,4.7,21,winter,yes,friends,any,142,5,4.0,879876734
+142,Vantawng Falls,Serchhip,Mizoram,4.1,26,winter,yes,friends,any,143,5,0.0,879551380
+143,Tam Dil,Saitual,Mizoram,4.4,19,winter,no,family,any,144,5,2.0,884714402
+144,Tropic of Cancer - Mizoram,Aizwal,Mizoram,4.3,28,winter,yes,family,any,145,5,0.0,882139746
+145,Phawngpui National Park,Lawngtlai,Mizoram,4.2,16,"summer,spring,winter,rainy,autumn",no,family,any,146,5,4.0,884538403
+146,Dampa Tiger Reserve Sanctuary,Aizwal,Mizoram,3.8,15,winter,no,family,any,147,5,2.0,880605157
+147,Mizoram State Museum,Aizwal,Mizoram,4.1,18,winter,no,friends,any,148,5,5.0,886323090
+148,Reiek,Aizwal,Mizoram,4.5,25,winter,yes,friends,any,149,5,0.0,888954930
+149,Murlen National Park,Champhai,Mizoram,4.3,20,winter,yes,family,any,150,5,0.0,883955745
+150,Palak Lake,Saiha,Mizoram,4.1,21,winter,yes,solo,any,151,5,4.0,889502823
+151,Tuirihiau falls,Serchhip,Mizoram,4.4,24,winter,yes,friends,any,152,5,3.0,883698454
+152,Intanki National Park,Peren,Nagaland,4.0,13,winter,yes,family,any,153,5,3.0,883452363
+153,Kohima War Cemetery,Kohima,Nagaland,4.2,40,"summer,spring,winter,rainy,autumn",yes,family,any,154,5,0.0,891449922
+154,Nagaland State Museum,Kohima,Nagaland,3.8,35,"summer,spring,winter,rainy,autumn",no,family,any,155,5,3.0,877878184
+155,Naga Heritage Village,Kohima,Nagaland,4.5,28,winter,yes,family,any,156,5,4.0,879525876
+156,Kachari Ruins,Dimapur,Nagaland,4.2,32,"summer,spring,winter,rainy,autumn",yes,family,any,157,5,4.0,876860807
+157,Shilloi Lake,Phek,Nagaland,4.3,25,monsoon,yes,friends,any,158,5,0.0,885678247
+158,Puliebadze WildLife Sanctuary,Jotsoma,Nagaland,4.4,26,winter,yes,friends,any,159,5,4.0,877886846
+159,Nagaland Zoological Park,Dimapur,Nagaland,3.7,13,"summer,spring,winter,rainy,autumn",yes,family,any,160,5,4.0,874724988
+160,Dzuleke,Kohima,Nagaland,4.5,23,winter,yes,friends,any,161,6,0.0,879456350
+161,Kohima Cathedral Church,Kohima,Nagaland,4.6,45,"summer,spring,winter,rainy,autumn",yes,family,christian,162,6,0.0,879467295
+162,nohkalikai falls,cherrapunji,meghalaya,4.7,0,summer,yes,"friends,family,solo",any,163,6,5.0,878870987
+163,umiam lake,shillong,meghalaya,4.5,0,"summer,spring,winter,rainy,autumn",yes,friends,any,164,6,3.0,891387947
+164,elephant falls,shillong,meghalaya,4.4,0,summer,yes,"friends,family,solo",any,165,6,0.0,891383204
+165,double descker living roots bridge,cherrapunji,meghalaya,4.8,15,"summer,spring,winter,rainy,autumn",yes,friends,any,166,6,2.0,888067405
+166,balpakram national park,garo hills,meghalaya,4.2,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,167,6,3.0,881108425
+167,tropic of cancer,mizoram,mizoram,4.3,0,"summer,spring,winter,rainy,autumn",yes,friends,any,168,6,0.0,879371261
+168,mizoram state museum,aizawl,mizoram,4.1,0,"summer,spring,winter,rainy,autumn",yes,family,any,169,6,4.0,876973939
+169,solomon's temple,aizawl,mizoram,4.4,0,"summer,spring,winter,rainy,autumn",yes,family,christian,170,6,4.0,875537965
+170,lushai hills,patkai,mizoram,4.4,20,spring,yes,friends,any,171,6,0.0,885412840
+171,folkland park,aizawl,mizoram,4.2,0,"summer,spring,winter,rainy,autumn",yes,family,any,172,6,4.0,875744136
+172,kohima war cemetery,kohima,nagaland,4.2,0,summer,yes,solo,any,173,6,3.0,875636053
+173,dimapur Ao baptist church,dimapur,nagaland,4.6,0,"summer,spring,winter,rainy,autumn",yes,family,christian,174,6,0.0,886324028
+174,dzukou valley trek,dzukou ,nagaland,4.8,20,summer,yes,friends,any,175,6,4.0,883612356
+175,kalibari temple,dimapur,nagaland,4.8,0,spring,yes,family,hindu,176,6,0.0,875975656
+176,triple falls seithekema,dimapur,nagaland,4.5,20,summer,yes,solo,any,177,6,0.0,875298353
+177,konark sun temple ,konark,odisha,4.6,0,spring,yes,family,hindu,178,6,5.0,887401701
+178,shri jagannath temple ,puri,odisha,4.7,0,summer,yes,family,hindu,179,6,4.0,886472768
+179,similipal national park,bhanjpur,odisha,4.3,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,180,6,3.0,884183336
+180,golden beach,puri,odisha,4.5,15,summer,yes,friends,any,181,6,1.0,892174404
+181,mukteswara temple ,bhudaneswar,odisha,4.6,0,"summer,spring,winter,rainy,autumn",yes,family,hindu,182,6,0.0,883601324
+182,nandankanan zoological park,bhudaneswar,odisha,4.4,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,183,6,3.0,880130193
+183,udaygiri and khandagiri caves,bhudaneswar,odisha,4.4,20,"summer,spring,winter,rainy,autumn",yes,friends,any,184,6,2.0,875542174
+184,lingaraja temple,bhudaneswar,odisha,4.6,0,summer,yes,family,hindu,185,6,0.0,885680138
+185,hirakud dam,hirakund,odisha,4.2,20,spring,yes,friends,any,186,6,4.0,881515011
+186,nagaland state museum,bayavu hills,nagaland,3.8,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,187,6,3.0,891347949
+187,naga heritage village,naga,nagaland,4.5,0,"summer,spring,winter,rainy,autumn",yes,solo,any,188,6,0.0,891353086
+188,shilloi lake,lustam village,nagaland,4.3,10,"summer,spring,winter,rainy,autumn",yes,friends,any,189,6,4.0,878183481
+189,mount saramati,burma,nagaland,4.2,20,spring,yes,solo,any,190,6,5.0,884128554
+190,ntanki national park,peren,nagaland,4.0,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,191,6,0.0,876923913
+191, tam dil lake,aizawl,mizoram,4.4,20,summer,yes,friends,any,192,6,5.0,878955442
+192,dampa tiger reserve ,western mizoram,mizoram,3.9,15,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,193,7,3.0,874786392
+193,mizoram science centre,zarkawt ,mizoram,4.1,0,"summer,spring,winter,rainy,autumn",yes,friends,any,194,7,0.0,891723086
+194,khawhpawp water falls ,aizawl,mizoram,4.0,20,spring,yes,solo,any,195,7,4.0,875801662
+195,pushpak gurudwara,aizawl,mizoram,4.1,0,"summer,spring,winter,rainy,autumn",yes,family,hindu,196,7,0.0,892428688
+196,kyllang rock ,khasi hills ,meghalaya,4.2,20,"summer,spring,winter,rainy,autumn",yes,solo,any,197,7,3.0,876857977
+197,baghmara,baghmara,meghalaya,4.0,0,"summer,spring,winter,rainy,autumn",yes,friends,any,198,7,3.0,888906966
+198,ward's lake,shillong,meghalaya,4.4,20,"summer,spring,winter,rainy,autumn",yes,friends,any,199,7,2.0,891385985
+199,nokrek national park,tura,meghalaya,4.2,0,"summer,spring,winter,rainy,autumn",yes,family,any,200,7,0.0,875216545
+200,don bosco museum,shillong,meghalaya,4.4,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,201,7,3.0,886443455
+201,Ujjyanta Palace,Agartala,Tripura,4.6,20,"summer,spring,winter,rainy,autumn",yes,"solo,family,friends ",any,202,7,4.0,882164999
+202,Heritage Park,Agartala,Tripura,4.2,25,"summer,spring,winter,rainy,autumn",yes,"friend,family",any,203,7,0.0,878542420
+203,Haveli Museum,Agartala,Tripura,3.9,30,"summer,spring,winter,rainy,autumn",yes,"friends,family",religious ,204,7,4.0,880036718
+204,Jagannath Bari,Agartala,Tripura,4.4,35,winter,yes,family ,hindu,205,7,3.0,892910207
+205,Tripureshwari Temple,Udaipur,Tripura,4.7,35,"summer,spring,winter,rainy,autumn",yes,"solo,family,friends ",hindu,206,7,4.0,882140926
+206,Kalyan Sagar,Udaipur,Tripura,4.4,20,summer,yes,"solo,friends",any,207,7,0.0,879455957
+207,Rowa Wildlife Sanctuary ,Dharmanagar,Tripura,3.5,15,summer ,yes,"solo,family,friends ",any,208,7,3.0,875654637
+208,Unakoti,Kailashahar,Tripura,4.5,35,"summer,spring,winter,rainy,autumn",no,family,hindu,209,7,0.0,884386343
+209,Trishna Wild Life,Belonia,Tripura,3.9,15,summer ,yes,friends ,any,210,7,0.0,881105481
+210,Rajbari National Park,Belonia,Tripura,5.0,20,"summer,spring,winter,rainy,autumn",yes,friends ,any,211,7,5.0,888549622
+211,golconda fort ,hyderabad,telangana,4.4,0,spring,yes,"friends,family",any,212,7,0.0,886272175
+212,charminar,hyderabad,telangana,4.4,0,spring,yes,"friends,family,solo",any,213,7,3.0,888104153
+213,ramoji film city,hyderabad,telangana,4.4,0,"summer,spring,winter,rainy,autumn",yes,"friends,family",any,214,7,0.0,878962392
+214,salar jung museum,hyderabad,telangana,4.4,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,215,7,4.0,874724710
+215,hussain sagar,hyderabad,telangana,4.3,0,summer,yes,"friends,family,solo",any,216,7,4.0,886323648
+216,birla mandir,hyderabad,telangana,4.6,0,"summer,spring,winter,rainy,autumn",yes,family,hindu,217,7,3.0,882922806
+217,mecca masjid,hyderabad,telangana,4.7,0,"summer,spring,winter,rainy,autumn",yes,family,muslim,218,7,0.0,891170769
+218,qutb shahi tombs,hyderabad,telangana,4.4,0,"summer,spring,winter,rainy,autumn",yes,"friends,family",any,219,7,0.0,877399018
+219,chilkur balaji temple,chilkur,telangana,4.3,0,"summer,spring,winter,rainy,autumn",yes,family,hindu,220,7,2.0,892838559
+220,thousand pillar temple,warangal,telangana,4.5,0,spring,yes,family,hindu,221,7,5.0,884238860
+221,Taj Mahal,Agra,Uttar Pradesh,4.6,0,"summer,spring,winter,rainy,autumn",Yes,"solo,family,friends",any,222,7,0.0,884304936
+222,Noida,Noida,Uttar Pradesh,4.0,25,autumn,No,"solo,family,friends",any,223,7,4.0,887665548
+223,Jhansi,Jhansi,Uttar Pradesh,4.0,15,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",any,224,7,4.0,891383319
+224,Kashi Viswanath Temple,varanasi,Uttar Pradesh,4.5,45,"summer,spring,winter,rainy,autumn",Yes,family,hindus,225,8,0.0,879455113
+225,Vrindavan,Vrindavan,Uttar Pradesh,4.2,30,"summer,spring,winter,rainy,autumn",Yes,"family,friends",hindus,226,8,3.0,879521396
+226,Lucknow,Locknow,Uttar Pradesh,4.1,0,winter,Yes,"friends,family,solo",any,227,8,0.0,879454628
+227,Ayodhya,Ayodhya,Uttar Pradesh,4.2,30,autumn,Yes,"family,friends",hindus,228,8,1.0,886987605
+228,Hastinapur,Hastinapur,Uttar Pradesh,4.6,25,autumn,Yes,"family,friends",hindus,229,8,4.0,877877775
+229,Kanpur,Kanpur,Uttar Pradesh,4.8,30,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",any,230,8,5.0,879524921
+230,Prayagraj,Allahabad,Uttarpradesh,4.1,30,"summer,spring,winter,rainy,autumn",Yes,"family,friends",hindus,231,8,0.0,891446165
+231,Fatehpur Sikri,Agra,Uttar Pradesh,4.6,30,"summer,spring,winter,rainy,autumn",Yes,"family,friends",any,232,8,5.0,883599249
+232,Sree Venkateswara Swamy Temple,Tirupathi,Andhra Pradesh,4.8,40,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",hindu,233,8,3.0,880937882
+233,Araku,Vizag,Andhra Pradesh,4.2,0,autumn,Yes,"friends,family,solo",any,234,8,0.0,879467542
+234,Horsley Hills,Madanapalle,Andhra Pradesh,4.0,0,autumn,Yes,"family,friends",any,235,8,1.0,877727122
+235,Sri Raghavendra Swamy Mutt,Mantralaya,Andhra Pradesh,4.7,40,"summer,spring,winter,rainy,autumn",Yes,"solo,family,friends",hindu,236,8,4.0,882078621
+236,Talakona Waterfalls,tirupathi,Andhra Pradesh,4.4,12,autumn,Yes,"family,friends",any,237,8,0.0,874793035
+237,Borra Caves,Araku,Andhra Pradesh,4.5,15,"summer,spring,winter,rainy,autumn",Yes,"family,friends",any,238,8,2.0,886323068
+238,Bheemili Beach,Vizag,Andhra Pradesh,4.3,7,autumn,Yes,"friends,family",any,239,8,2.0,879541148
+239,Srisailam Dam,Srisailam,Andhra Pradesh,4.7,20,autumn,Yes,"family,friends",any,240,8,0.0,891438397
+240,Pulicat Lake and Sanctuary,Sullurpet,Andhra Pradesh,4.0,10,autumn,Yes,"solo,family,friends",any,241,8,0.0,879875940
+241,SHAR,Srihari Kota,Andhra Pradesh,4.7,0,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",any,242,8,4.0,877819599
+242,Papikondalu,Rajahmundry,Andhra Pradesh,4.4,0,autumn,Yes,"solo,family,friends",any,243,8,0.0,877531791
+243,Yaganti Temple,Yaganti,Andhra Pradesh,4.6,30,autumn,Yes,"friends,family,solo",hindu,244,8,5.0,884128458
+244,Indira Gandhi Zoological Park,Visakhapatnam,Andhra Pradesh,4.1,0,autumn,Yes,"family,friends",any,245,8,1.0,891632142
+245,Chandragiri Fort,Chandragiri,Andhra Pradesh,4.2,0,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",any,246,8,0.0,882826555
+246,Namdapha National Park,Namdaph,Arunachal Pradesh,4.3,15,"summer,spring,winter,rainy,autumn",Yes,"family,friends",any,247,8,2.0,879484804
+247,Tawang,Tawang,Arunachal Pradesh,4.7,0,summer,Yes,"family,friends",any,248,8,4.0,879374686
+248,Sela Pass,Tawang,Arunachal Pradesh,4.8,0,autumn,Yes,"solo,family,friends",any,249,8,0.0,876018608
+249,Ziro Valley,Ziro,Arunachal Pradesh,4.8,20,summer,Yes,"family,friends",any,250,8,0.0,875653271
+250,Tezu,Lohit,Arunachal Pradesh,4.1,20,winter,Yes,"solo,family,friends",buddists,251,8,4.0,882078040
+251,Roing,Roing,Arunachal Pradesh,4.1,0,autumn,Yes,"friends,family,solo",any,252,8,5.0,882157581
+252,Bomdila,West Kameng,Arunachal Pradesh,4.7,30,summer,Yes,family,any,253,8,0.0,884150257
+253,Dirang Valley,Dirang ,Arunachal Pradesh,4.9,20,summer,Yes,"solo,family,friends",any,254,8,3.0,875747190
+254,Pasi Ghat,East Siang,Arunachal Pradesh,3.9,20,spring,Yes,"solo,family,friends",any,255,8,3.0,881961671
+255,Itanagar,Itanagar,Arunachal Pradesh,4.0,0,autumn,Yes,"solo,family,friends",any,256,8,0.0,875307407
+256,Aalo,West Siang,Arunachal Pradesh,3.8,25,autumn,Yes,"solo,family,friends",any,257,9,0.0,878089716
+257,Nuranang Falls,Tawang,Arunachal Pradesh,4.3,25,monsoon,Yes,"family,friends",any,258,9,3.0,890881335
+258,Bhalukpong,West Kameng,Arunachal Pradesh,4.4,0,autumn,Yes,"solo,family,friends",any,259,9,3.0,889502324
+259,Sangti,Dirang ,Arunachal Pradesh,4.0,0,monsoon,Yes,"family,friends",any,260,9,3.0,879525876
+260,Changlang,Changlang,Arunachal Pradesh,4.5,25,autumn,Yes,"family,friends",any,261,9,0.0,879485532
+261,Kaziranga National Park,Guwahati,Assam,3.9,25,autumn,Yes,"family,friends",any,262,9,5.0,874775038
+262,Manas National Park,Gobardhana,Assam,3.8,20,autumn,Yes,"family,friends",any,263,9,5.0,879966498
+263,Kamakhya Temple,kamakhya,Assam,4.5,30,autumn,Yes,family,hindu,264,9,0.0,875742942
+264,Majuli Island,Majuli,Assam,4.7,0,autumn,Yes,"friends,family,solo",any,265,9,2.0,875744173
+265,Kakochang Waterfalls,Kakochang ,Assam,4.5,0,autumn,Yes,"friends,family,solo",any,266,9,4.0,883601089
+266,Tocklai Tea Research Centre,Jorhat,Assam,4.5,25,"summer,spring,winter,rainy,autumn",Yes,"friends,solo",any,267,9,5.0,879394264
+267,Guwahati Planetarium,Guwahati,Assam,4.3,20,"summer,spring,winter,rainy,autumn",No,"friends,family,solo",any,268,9,4.0,880308578
+268,Hajo,Guwahati,Assam,4.0,30,autumn,Yes,"friends,family,solo","hindu,buddhists,muslims",269,9,0.0,891542540
+269,Padam Pukhuri,Tezpur,Assam,4.0,20,"summer,spring,winter,rainy,autumn",Yes,"friends,family",any,270,9,2.0,881368243
+270,Haflong Hills,Haflong,Assam,4.2,25,autumn,Yes,"friends,family",any,271,9,4.0,891374868
+271,Dibrugarh,Dibrugarh,Assam,4.4,25,autumn,Yes,"friends,family",any,272,9,1.0,875744501
+272,Tinsukia,Tinsukia,Assam,3.9,0,autumn,Yes,"friends,family,solo",any,273,9,0.0,882076587
+273,Dispur,Dispur,Assam,4.0,0,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",any,274,9,5.0,879283786
+274,Amaravathi,Guntur,Andhra Pradesh,4.1,0,"summer,spring,winter,rainy,autumn",Yes,"solo,family,friends",any,275,9,0.0,892334609
+275,Bodh Gaya,Gaya,Bihar,4.3,20,autumn,Yes,"friends,family,solo",buddhists,276,9,4.0,880308755
+276,Patna,Patna,Bihar,4.2,25,autumn,Yes,"solo,family,friends",sikhs,277,9,2.0,878961624
+277,Nalanda,Nalanda,Bihar,4.2,0,autumn,Yes,"solo,family,friends",buddhists,278,9,4.0,875240090
+278,Vaishali,Patna,Bihar,4.4,30,autumn,Yes,"family,friends","buddhists,sikhs",279,9,0.0,892430369
+279,Madhubani,Darbhanga,Bihar,4.0,30,autumn,Yes,"solo,family,friends",any,280,9,0.0,891352093
+280,Muzaffarpur,Muzaffarpur,Bihar,3.9,25,"summer,spring,winter,rainy,autumn",No,"friends,family,solo",any,281,9,4.0,886122952
+281,Bhugalpur,Bhagulpur,Bihar,4.2,0,autumn,Yes,"family,friends",any,282,9,1.0,878961814
+282,Hot Spring,Rajgir,Bihar,4.5,0,monsoon,Yes,"friends,family,solo","hindus,jains,buddhists",283,9,1.0,884140579
+283,Jal Mandir,Pawapuri,Bihar,4.1,30,monsoon,Yes,"solo,family,friends",jains,284,9,0.0,879456199
+284,Hajipur,Hajipur,Bihar,3.9,25,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo","hindus,muslims,buddhists,jains",285,9,3.0,891450023
+285, Karkat Waterfall,Karkathgarh,Bihar,4.5,20,monsoon,Yes,friends,any,286,9,0.0,888205855
+286,Dhungeswari hills,Larpur,Bihar,4.0,20,"summer,spring,winter,rainy,autumn",Yes,"friends,family",buddhists,287,9,4.0,889651549
+287,Patna Musuem,Patna,Bihar,4.3,0,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",any,288,9,0.0,889124507
